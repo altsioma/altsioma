@@ -1,5 +1,5 @@
 <div>
-    <span><img src="https://github-readme-stats.vercel.app/api?username=altsioma&show_icons=true&locale=en" alt="altsioma" /></span>
+    <span><img src="https://github-readme-stats.vercel.app/api?username=altsioma&show_icons=true&locale=en&hide_title=true" alt="altsioma" /></span>
     <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=altsioma&show_icons=true&locale=en&layout=compact" alt="altsioma" /></span>
 </div>
 <div>
