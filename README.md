@@ -1,9 +1,9 @@
 <p>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=altsioma&show_icons=true&locale=en&hide_title=true" alt="altsioma" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=altsioma&show_icons=true&locale=en&layout=compact" alt="altsioma" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=altsioma&show_icons=true&locale=en&hide_title=true" alt="altsioma" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=altsioma&show_icons=true&locale=en&layout=compact" alt="altsioma" />
 </p>
-<p><img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=altsioma" alt="wakatime"/></p>
-<p><img height="200" src="https://leetcard.jacoblin.cool/altsioma?theme=light" alt="leetcode"/>  </p>
+<p><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=altsioma" alt="wakatime"/></p>
+<p><img height="150" src="https://leetcard.jacoblin.cool/altsioma?theme=light" alt="leetcode"/>  </p>
 
 <!--
 **altsioma/altsioma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
