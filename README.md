@@ -1,10 +1,11 @@
 <div>
     <span><img src="https://github-readme-stats.vercel.app/api?username=altsioma&show_icons=true&locale=en&hide_title=true" alt="altsioma" /></span>
-    <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=altsioma&show_icons=true&locale=en&layout=compact" alt="altsioma" /></span>
+    <span><img src="https://leetcard.jacoblin.cool/altsioma" alt="leetcode"/></span>
 </div>
+
 <div>
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=altsioma" alt="wakatime"/>Ï
-    <img src="https://leetcard.jacoblin.cool/altsioma" alt="leetcode"/>
+    <span><img src="https://github-readme-stats.vercel.app/api/wakatime?username=altsioma" alt="wakatime"/></span>
+    <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=altsioma&show_icons=true&locale=en&layout=compact" alt="altsioma" /></span>
 </div>
 
 
