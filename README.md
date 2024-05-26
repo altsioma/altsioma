@@ -1,9 +1,9 @@
-<div>
+<div style="display: flex;">
     <span><img src="https://github-readme-stats.vercel.app/api?username=altsioma&show_icons=true&locale=en&hide_title=true" alt="altsioma" /></span>
-    <span><img src="https://leetcard.jacoblin.cool/altsioma" alt="leetcode"/></span>
+    <span><img src="https://leetcard.jacoblin.cool/altsioma?theme=light" alt="leetcode"/></span>
 </div>
 
-<div>
+<div style="display: flex;">
     <span><img src="https://github-readme-stats.vercel.app/api/wakatime?username=altsioma" alt="wakatime"/></span>
     <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=altsioma&show_icons=true&locale=en&layout=compact" alt="altsioma" /></span>
 </div>
